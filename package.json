@@ -6,6 +6,7 @@
   },
   "private": true,
   "main": "index.js",
+  "proxy": "http://localhost:3000",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
