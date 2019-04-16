@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import Carousel from 'react-bootstrap/Carousel';
+// import Carousel from 'react-bootstrap/Carousel';
 import Navigation from './Components/Navigation/Navigation';
-import Logo from './Components/Logo/Logo';
 import Category from './Components/Search/Category';
 import Infos from './Components/Infos/Infos';
 import Form from './Components/Form/Form';

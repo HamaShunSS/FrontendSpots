@@ -152,7 +152,7 @@ class Form extends Component {
         return (
                 <main className="pa4">
                     <div className="tc fl w-100 w-100-ns tc">
-                        <fieldset id="sign_up" className="ba b--transparent ph0 mh0">
+                        <fieldset id="sign_up" className="ba b--transparent ph0 mh0 mt4-ns ">
                             <div className="f2 pv5 fl w-100 w-100-ns tc fw6 ph0 mh0">オススメの場所をシェアハピして下さい！！</div>
                             <div className="">
                                 <label className="db fw6 lh-copy f6" htmlFor="name">場所の名前は？</label>
